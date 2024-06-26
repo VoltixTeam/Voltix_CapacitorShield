@@ -1,0 +1,8 @@
+fp-info-cache
+*.kicad_prl
+*.xml
+*-backups
+*.csv
+
+voltix-cap-shield-panel.kicad_pcb
+voltix-cap-shield-panel.kicad_pro
